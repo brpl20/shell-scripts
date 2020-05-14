@@ -1,6 +1,5 @@
 # shell-scripts
-Scripts to make our day-to-day easier
-Just learning 
+Scripts to make our day-to-day easier. Keep learning.
 
 g.sh -> push to git with generic message
 
